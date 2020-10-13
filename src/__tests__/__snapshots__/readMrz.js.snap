@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test the extraction of MRZ characters on an identity card 1`] = `
+Array [
+  "IDFRABERTHIER<<<<<<<<<<<<<<<<<<<<<<<",
+  "9409923102854CORINNE<<<<<<<6512068F4",
+]
+`;
+
+exports[`test the extraction of MRZ characters on an identity card 2 1`] = `
+Array [
+  "P<ESTMAENNIK<<MARI<LIIS<<<<<<<<<<<<<<<<<<<<<",
+  "KB00000003EST7501229F120522647501220010<<<02",
+]
+`;
