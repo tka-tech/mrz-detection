@@ -59,7 +59,7 @@
     "ml-matrix": "^5.0.1",
     "ml-param-grid": "^1.0.0",
     "mrz": "^3.1.0",
-    "ocr-tools": "^0.1.1",
+    "ocr-tools": "git+https://github.com/tka-tech/ocr-tools.git#c967276f184f580513bb1130d4bc0a8b07c6c707",
     "radians-degrees": "^1.0.0",
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
